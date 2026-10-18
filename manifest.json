@@ -1,0 +1,9 @@
+{
+  "id": "time-tracker-table",
+  "name": "Time Tracker Table (Автоматический учёт времени)",
+  "version": "1.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "Интерактивная таблица учёта потраченного времени с авторасчётом минут за запись, помесячными итогами («305 минут» и «5 ч 5 мин») и адаптацией под iPad.",
+  "author": "Local Obsidian Time Tracker",
+  "isDesktopOnly": false
+}
